@@ -3,7 +3,7 @@ export const products = [
         _id: '6372e040f52e37ef85fe2c5e',
         name: 'Pizza quatro queijos',
         description: 'Deliciosa pizza quatro queijos com borda simples',
-        imagePath: '1668472896991-quatro-queijos.png',
+        imagePath: '1668477192988-quatro-queijos.png',
         price: 40,
         ingredients: [
             {
@@ -25,6 +25,36 @@ export const products = [
                 name: 'Brie',
                 icon: '🧀',
                 _id: '6372e040f52e37ef85fe2c62'
+            },
+            {
+                name: 'Gouda',
+                icon: '🧀',
+                _id: '6372e040f52e37ef85fe2c61'
+            },
+            {
+                name: 'Brie',
+                icon: '🧀',
+                _id: '6372e040f52e37ef85fe2c62'
+            },
+            {
+                name: 'Gouda',
+                icon: '🧀',
+                _id: '6372e040f52e37ef85fe2c61'
+            },
+            {
+                name: 'Brie',
+                icon: '🧀',
+                _id: '6372e040f52e37ef85fe2c62'
+            },
+            {
+                name: 'Gouda',
+                icon: '🧀',
+                _id: '6372e040f52e37ef85fe2c61'
+            },
+            {
+                name: 'Brie',
+                icon: '🧀',
+                _id: '6372e040f52e37ef85fe2c62'
             }
         ],
     },
@@ -32,7 +62,47 @@ export const products = [
         _id: '6372e276a381106c0f854cb3',
         name: 'Coca cola',
         description: 'Coca cola lata geladinha topzera',
-        imagePath: '1668473462705-coca-cola.png',
+        imagePath: '1668477774073-coca-cola.png',
+        price: 7,
+        ingredients: [],
+    },
+    {
+        _id: '6372e276a381106c0f854cb3246536736749',
+        name: 'Coca cola',
+        description: 'Coca cola lata geladinha topzera',
+        imagePath: '1668477774073-coca-cola.png',
+        price: 7,
+        ingredients: [],
+    },
+    {
+        _id: '6372e276a381106c0f854cb362462ywh425',
+        name: 'Coca cola',
+        description: 'Coca cola lata geladinha topzera',
+        imagePath: '1668477774073-coca-cola.png',
+        price: 7,
+        ingredients: [],
+    },
+    {
+        _id: '6372e276a381106c0f854cb3424524',
+        name: 'Coca cola',
+        description: 'Coca cola lata geladinha topzera',
+        imagePath: '1668477774073-coca-cola.png',
+        price: 7,
+        ingredients: [],
+    },
+    {
+        _id: '6372e276a381106c0f854cb389690960',
+        name: 'Coca cola',
+        description: 'Coca cola lata geladinha topzera',
+        imagePath: '1668477774073-coca-cola.png',
+        price: 7,
+        ingredients: [],
+    },
+    {
+        _id: '6372e276a381106c0f854cb35456456',
+        name: 'Coca cola',
+        description: 'Coca cola lata geladinha topzera',
+        imagePath: '1668477774073-coca-cola.png',
         price: 7,
         ingredients: [],
     },
